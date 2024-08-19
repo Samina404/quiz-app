@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(7, 76, 52);
+}
+.container{
+    background-color: rgb(229, 238, 238);
+    width: 90%;
+    max-width:600px;
+     margin: 70px  ;
+    padding: 20px  ; 
+    margin-left: 330px;
+    
+}
+.option{
+border: 2px solid black;
+color:#222;
+width: 100%;
+padding: 10px;
+margin: 10px;
+
+}
+.option:hover{
+    background: #c7b7b7;
+}
